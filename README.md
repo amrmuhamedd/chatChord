@@ -1,5 +1,5 @@
 # chatChord
-Demo [here](https://amr-chat.herokuapp.com/)
+Demo [here](https://chatchord.onrender.com/)
 
 
 this is realtime chat using node js you can send message to room and see all user in the room 
